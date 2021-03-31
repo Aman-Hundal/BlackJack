@@ -1,4 +1,4 @@
-#BLACKJACK by Kewl (v1.0)
+#BLACKJACK by Aman (v1.0)
 import random
 suit = ("Hearts","Diamonds","Clubs","Spades")
 rank = ("Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King", "Ace")
