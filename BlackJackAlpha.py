@@ -154,7 +154,7 @@ if __name__ == "__main__":
 						player_turn = False
 						dealer_turn = True
 			while dealer_turn:
-				if dealer_value(dealer.hand) < 17:
+				if dealer_value(dealer.hand) <= 16:
 					draw(dealer)
 				if dealer_value(dealer.hand) > 21:
 					show_table(player,dealer)
