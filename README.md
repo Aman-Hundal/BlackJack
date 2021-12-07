@@ -6,7 +6,7 @@ Objective of the game is for the dealer and player to get closest to 21 without 
 ## Setup
 1. Open up your command line terminal
 1. Go to the location of the .py file
-1. Run ``python BlackJack.py``
+1. Run ``python BlackJackAlpha.py``
 
 ## Final Product
 
