@@ -4,8 +4,8 @@ Simple BlackJack game made with Python. Outline of the game is that there is a A
 Objective of the game is for the dealer and player to get closest to 21 without going over. If they go over they bust and lose the round. Player start with 100 chips and if they reach 0 the game is entirely over. Players can cash out at the begginning of each round
 
 ## Setup
-1. Open up your command line terminal.
-1. Go to the location of the .py file.
+1. Open up your command line terminal
+1. Go to the location of the .py file
 1. Run ``python BlackJackAlpha.py``
 
 ## Final Product
